@@ -1,1 +1,1 @@
-Write-Host "Hello Github Codespace"
+Write-Host "Hello Github Codespace from PowerShell"
