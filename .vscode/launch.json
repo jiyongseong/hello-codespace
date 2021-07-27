@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/hello-codespace/bin/Debug/net5.0/hello-codespace.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/hello-codespace.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/hello-codespace",
+            "cwd": "${workspaceFolder}/",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
